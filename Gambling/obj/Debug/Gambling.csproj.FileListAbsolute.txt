@@ -1,0 +1,16 @@
+D:\GamblingGame\Gambling\bin\Debug\Gambling.exe.config
+D:\GamblingGame\Gambling\bin\Debug\Gambling.exe
+D:\GamblingGame\Gambling\bin\Debug\Gambling.pdb
+D:\GamblingGame\Gambling\obj\Debug\Gambling.csproj.AssemblyReference.cache
+D:\GamblingGame\Gambling\obj\Debug\Gambling.csproj.SuggestedBindingRedirects.cache
+D:\GamblingGame\Gambling\obj\Debug\MainWindow.g.cs
+D:\GamblingGame\Gambling\obj\Debug\App.g.cs
+D:\GamblingGame\Gambling\obj\Debug\Gambling_MarkupCompile.cache
+D:\GamblingGame\Gambling\obj\Debug\Gambling_MarkupCompile.lref
+D:\GamblingGame\Gambling\obj\Debug\MainWindow.baml
+D:\GamblingGame\Gambling\obj\Debug\Gambling.g.resources
+D:\GamblingGame\Gambling\obj\Debug\Gambling.Properties.Resources.resources
+D:\GamblingGame\Gambling\obj\Debug\Gambling.csproj.GenerateResource.cache
+D:\GamblingGame\Gambling\obj\Debug\Gambling.csproj.CoreCompileInputs.cache
+D:\GamblingGame\Gambling\obj\Debug\Gambling.exe
+D:\GamblingGame\Gambling\obj\Debug\Gambling.pdb
